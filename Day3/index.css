@@ -1,0 +1,27 @@
+* {
+    /*  */
+    background-color:#CEE5D0;
+  }
+  
+  p {
+      
+      font-size: 18px;
+  }
+
+  h1 {
+      font-size: 66px;
+  }
+  #no_style{
+    text-decoration: dashed;
+    cursor: progress;
+}
+  #paragraphStyle{
+      color:gray;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row-reverse;
+      
+
+  }
+
