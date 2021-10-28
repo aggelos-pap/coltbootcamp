@@ -1,0 +1,42 @@
+
+*{
+    padding: 0.2;
+    margin: 0.2;
+}
+
+body{
+    background-color:#FFBF86;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+h4{
+    font-family: 'Lato', sans-serif;
+    color: red;
+}
+
+#paragraph-font{
+    font-family: 'Fira Sans', sans-serif;
+    color: #9C19E0;
+    
+}
+
+
+
+
+#title-font{
+    font-family: 'Fira Sans', sans-serif;
+    color: cyan;
+}
+
+a{
+    font-family: cursive;
+}
+
+#a-tag{
+    text-decoration: none;
+}
+
+#a-tag:hover{
+    text-decoration:underline;
+}
