@@ -1,5 +1,31 @@
-* {
-  text-align: center;
-  margin: 0;
-  padding: 0;
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+li{
+    list-style:disc;
+    /* list-style-type: upper-roman; */
+    color: maroon;
+    text-align: center;
+}
+
+a{
+    background-color: maroon;
+    color:white;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 3px;
+    margin: 1px;
+    width:150px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    position: static;
+    flex-direction: row;
+    text-align: center;
+
+}
+
+a:hover{
+    text-decoration: none;
+    opacity: calc(80%);
 }
